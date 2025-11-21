@@ -1,10 +1,10 @@
 # EPI Benchmarking Suite
 
-A comprehensive benchmarking framework for evaluating and comparing the performance of enhancer-promoter interaction (EPI) prediction tools across multiple human cell lines.
+A performance comparison of three computational methods—eModule, TargetFinder, and EPIPDLF—for enhancer-promoter interaction (EPI) prediction, evaluated across diverse human cell lines.
 
 ## Overview
 
-This repository provides a standardized evaluation pipeline for comparing state-of-the-art EPI prediction methods. We benchmark three computational approaches:
+This repository provides a standardized evaluation pipeline for comparing eModule with state-of-the-art EPI prediction methods:
 
 - **[eModule](https://github.com/LinjieCodes/eModule)**: A comprehensive framework designed to analyze enhancer expression and identify enhancer-mediated gene regulatory modules using transcriptomic data
 - **[TargetFinder](https://github.com/shwhalen/targetfinder)**: An ensemble learning method that integrates hundreds of genomics datasets
