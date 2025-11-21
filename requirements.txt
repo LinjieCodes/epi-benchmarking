@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.19.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scipy>=1.7.0
+
+# Deep learning dependencies
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Data processing
+h5py>=3.0.0
+tqdm>=4.60.0
+pathlib2>=2.3.0
+
+# Visualization
+plotly>=5.0.0
+
+# Optional: for advanced features
+jupyter>=1.0.0
+ipywidgets>=7.6.0
